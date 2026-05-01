@@ -275,7 +275,7 @@ section p:last-child {
   }
 }
 
-/* .footer-globe-wrap {
+.footer-globe-wrap {
   width: 100%;
   height: 180px;      
   overflow: hidden;
@@ -288,7 +288,7 @@ section p:last-child {
   transform: scale(0.5);
   transform-origin: center top;
   opacity: 0.85;
-} */
+}
 
 /* .footer-globe {
   display: flex;
@@ -307,7 +307,7 @@ section p:last-child {
   margin-bottom: -150px; 
 } */
 
-.footer-globe {
+/* .footer-globe {
   display: flex;
   justify-content: center;
   opacity: 0.85;
@@ -315,7 +315,7 @@ section p:last-child {
   zoom: 0.5;
   transform-origin: center top;
   margin-bottom: -150px;
-}
+} */
 
 .footer-globe:hover {
   opacity: 1;
