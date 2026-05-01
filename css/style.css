@@ -274,3 +274,15 @@ section p:last-child {
     justify-content: flex-start;
   }
 }
+
+.footer-globe {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.75rem;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+
+.footer-globe:hover {
+  opacity: 1;
+}
