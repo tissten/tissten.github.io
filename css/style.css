@@ -279,11 +279,19 @@ section p:last-child {
   display: flex;
   justify-content: center;
   opacity: 0.85;
+  zoom: 0.5;
+  margin-bottom: -150px; 
+}
+
+/* .footer-globe {
+  display: flex;
+  justify-content: center;
+  opacity: 0.85;
   transition: opacity 0.2s;
   zoom: 0.5;
   transform-origin: center top;
   margin-bottom: -150px;
-}
+} */
 
 .footer-globe:hover {
   opacity: 1;
