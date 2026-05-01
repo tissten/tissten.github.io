@@ -279,9 +279,18 @@ section p:last-child {
   display: flex;
   justify-content: center;
   opacity: 0.85;
+  transform: scale(0.5);
+  transform-origin: center top;
+  margin-top: 0;
+  margin-bottom: calc(-50% + 20px); 
+}
+/* .footer-globe {
+  display: flex;
+  justify-content: center;
+  opacity: 0.85;
   zoom: 0.5;
   margin-bottom: -150px; 
-}
+} */
 
 /* .footer-globe {
   display: flex;
