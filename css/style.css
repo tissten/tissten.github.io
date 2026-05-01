@@ -281,9 +281,9 @@ section p:last-child {
   margin-bottom: 0.75rem;
   opacity: 0.85;
   transition: opacity 0.2s;
-  zoom: 0.5;
+  zoom: 0.8;
   transform-origin: center top;
-  margin-bottom: -80px;
+  margin-bottom: -50px;
 }
 
 .footer-globe:hover {
