@@ -281,7 +281,7 @@ section p:last-child {
   margin-bottom: 0.75rem;
   opacity: 0.85;
   transition: opacity 0.2s;
-  transform: scale(0.5);
+  transform: scale(0.2);
   transform-origin: center top;
   margin-bottom: -80px;
 }
