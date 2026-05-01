@@ -283,7 +283,7 @@ section p:last-child {
   transition: opacity 0.2s;
   zoom: 0.8;
   transform-origin: center top;
-  margin-bottom: -50px;
+  margin-bottom: -150px;
 }
 
 .footer-globe:hover {
