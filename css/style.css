@@ -306,29 +306,7 @@ section p:last-child {
 } */
 
 
-.footer-map-wrap {
-  margin: 2rem auto 1.5rem;
-  text-align: center;
-}
 
-.footer-map {
-  width: 260px;
-  height: 160px;
-  margin: 0 auto;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.footer-map iframe,
-.footer-map canvas,
-.footer-map object,
-.footer-map img {
-  width: 260px !important;
-  height: 160px !important;
-  max-width: 100%;
-}
 
 
 
