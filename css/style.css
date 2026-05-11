@@ -304,3 +304,26 @@ section p:last-child {
 .footer-globe:hover {
   opacity: 1;
 } */
+
+
+.footer-globe-wrap {
+  margin: 2.5rem 0 1.5rem;
+  text-align: center;
+}
+
+.footer-globe-wrap h2 {
+  margin-bottom: 1rem;
+}
+
+.footer-globe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 280px;
+}
+
+.footer-globe iframe,
+.footer-globe canvas,
+.footer-globe object {
+  max-width: 100%;
+}
