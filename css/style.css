@@ -307,23 +307,25 @@ section p:last-child {
 
 
 .footer-globe-wrap {
-  margin: 2.5rem 0 1.5rem;
+  margin: 2rem auto 1.5rem;
   text-align: center;
 }
 
-.footer-globe-wrap h2 {
-  margin-bottom: 1rem;
-}
-
 .footer-globe {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 280px;
+  overflow: hidden;
 }
 
 .footer-globe iframe,
 .footer-globe canvas,
 .footer-globe object {
+  width: 220px !important;
+  height: 220px !important;
   max-width: 100%;
 }
+
