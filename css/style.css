@@ -312,20 +312,15 @@ section p:last-child {
 }
 
 .footer-globe {
-  width: 220px;
-  height: 220px;
-  margin: 0 auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
+  width: 180px;
+  height: 180px;
 }
 
 .footer-globe iframe,
 .footer-globe canvas,
 .footer-globe object {
-  width: 220px !important;
-  height: 220px !important;
-  max-width: 100%;
+  width: 180px !important;
+  height: 180px !important;
 }
+
 
